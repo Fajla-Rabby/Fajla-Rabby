@@ -16,7 +16,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 
-I am a Full Stack Developer with a huge love for Laravel, React.js, API, DBMS and Bootstrap. Currently, **I'm open to working at [Xerone IT](https://xeroneit.net/) as a Junior Software Engineer**.
+I am a Full Stack Developer with a huge love for Laravel, React.js, API, DBMS and Bootstrap. Currently, **I'm working at [Xerone IT](https://xeroneit.net/) as a Junior Software Engineer**.
 
 I love to read books and passionate about new technology.
 
